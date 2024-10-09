@@ -36,7 +36,7 @@ The main tasks in this project include:
 This project provided key insights that will inform product features, marketing strategies, and operational improvements. By analyzing user engagement, detecting bots, and providing data-backed recommendations, the analysis will help Instagram improve both user retention and overall platform performance.
 
 ## SQL Queries
-Snapshots of the SQL queries and their outputs have been included in the report, which can be accessed via the following [link](#).
+Snapshots of the SQL queries and their outputs have been included in the report.
 
 ## Conclusion
 This project helped in deepening SQL expertise while providing real-world value to Instagram’s product and marketing teams. The insights gained from the analysis can influence Instagram's future development and engagement strategies.
